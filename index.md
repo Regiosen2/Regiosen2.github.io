@@ -14,3 +14,13 @@ Here you can see some of the games and concepts I've created as a hobby.
   Your browser does not support the video tag.
 </video>
 [Download Game Demo](assets/downloadables/ARCube.rar)
+
+# The Witch Bossfight
+
+[Download Game Demo](assets/downloadables/WitchBossFight.rar)
+
+# Borrados
+
+http://safegamedevelopment.github.io/juegoFisica/Juegofisica.html
+
+
