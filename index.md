@@ -1,14 +1,9 @@
 ---
 layout: default
-title: Home
+title: Sergio Barrios | Interactive Entertainment & Game Development
 ---
 
 # Welcome to My Site!
 
-This is a site using the Cayman theme.
+Here you can see some of the games and concepts I've created as a hobby. 
 
-## Latest Blog Posts
-
-{% for post in site.posts limit:3 %}
-  * [{{ post.title }}]({{ post.url }})
-{% endfor %}
