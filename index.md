@@ -9,7 +9,7 @@ Here you can see some of the games and concepts I've created as a hobby.
 
 # ARCube
 
-<video width="640" height="360" controls>
+<video width="640" height="360" controls poster="/assets/images/ARCubeVideoThumbnail.png">
   <source src="/assets/videos/ARCubeVidPresentation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
