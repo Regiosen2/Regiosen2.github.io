@@ -33,4 +33,8 @@ http://safegamedevelopment.github.io/juegoFisica/Juegofisica.html
 
 # Robot Artist
 
+<video width="640" height="360" controls>
+  <source src="/assets/videos/ArtistRobot.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 [Download Game Demo](assets/downloadables/RobotArtist.rar)
