@@ -25,6 +25,10 @@ Here you can see some of the games and concepts I've created as a hobby.
 
 # Borrados
 
+<video width="640" height="360" controls>
+  <source src="/assets/videos/Borrados.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 http://safegamedevelopment.github.io/juegoFisica/Juegofisica.html
 
 # Robot Artist
