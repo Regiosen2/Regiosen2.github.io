@@ -7,6 +7,9 @@ title: Sergio Barrios | Interactive Entertainment & Game Development
 
 Here you can see some of the games and concepts I've created as a hobby. 
 
+# Twisted Star
+[Download Game Demo](assets/downloadables/TwistedStar.rar)
+
 # ARCube
 
 <video width="640" height="360" controls poster="/assets/images/ARCubeVideoThumbnail.png">
