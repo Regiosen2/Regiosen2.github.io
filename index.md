@@ -48,6 +48,11 @@ another person was playing the game with the other character the information cou
 </video>
 [Download Game Demo](assets/downloadables/ARCube.rar)
 
+The ARCube is an experimental project, it uses ARToolkit for Unity to detect 6 specific marks, these marks are meant to be arranged in the shape of a cube. 
+Through angle calculations the cube will determine where "down" is and apply gravity to a ball that spawns in the "water" mark. Each mark will render a room
+that seems to fit inside of the cube, by moving the cube around you can make the ball fall into holes. These holes align with the marks on the sides of the cube.
+The product of these logis is that you get a very intriguing trinket that you can play around with.
+
 # The Witch Bossfight
 
 <video width="640" height="360" controls>
