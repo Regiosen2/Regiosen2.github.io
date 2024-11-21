@@ -17,7 +17,7 @@ Here you can see some of the games and concepts I've created as a hobby.
 The twisted star is my biggest independent project, I started it to learn the Unity engine in depth and ended up designing a very ambitious 2D platformer Beat 'em up.
 I made all of the assets from scratch, to learn as much as I could. 
 
-##Mechanics
+## Mechanics
 
 I implemented basic 2D platformer mechanics to allow the player some sense of familiarity with the controls, jumping, collectibles, a lifebar and different movement methods like dashing and swinging.
 But the main mechanic of this game was what i called the "combo system". Normally, a "combo system" is something one would find in a classic Fighting game, where a combo is a link of quick moves that aren't countered in a short amount of time. 
@@ -27,13 +27,13 @@ The idea of this mechanic was to make moves that are wildly different from each 
 To add to this gameplay, if you use up all the attacks from one of your weapons, you get a "Set Bonus", which varies depending on the weapon. When you use all the attacks of the sword, your other weapons can hit several opponents at once, 
 the whip set bonus makes your other weapons hitbox larger and the hammer gives your other weapons knockback.
 
-##Story
+## Story
 
 I made a dialogue system with portraits and expressions to convey the story of the game. The main idea was to make this game have hard hitting dramatic moments but generally have an optimistic tone. 
 I made two characters that were meant to have different motivations but generally go through the same levels, this way, one could learn new things about the world with a second playthrough or if 
 another person was playing the game with the other character the information could be shared.
 
-##Art
+## Art
 
 The idea for the game was to make it pixel art, however, I also thought that limiting the pallet as much as possible could give the game a realtively unique look. 
 
