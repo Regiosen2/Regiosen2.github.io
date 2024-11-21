@@ -29,15 +29,15 @@ The idea of this mechanic was to make moves that are wildly different from each 
 To add to this gameplay, if you use up all the attacks from one of your weapons, you get a "Set Bonus", which varies depending on the weapon. When you use all the attacks of the sword, your other weapons can hit several opponents at once, 
 the whip set bonus makes your other weapons hitbox larger and the hammer gives your other weapons knockback.</p>
 
-## Story
+  <h2>Story</h2>
 
-I made a dialogue system with portraits and expressions to convey the story of the game. The main idea was to make this game have hard hitting dramatic moments but generally have an optimistic tone. 
+  <p>I made a dialogue system with portraits and expressions to convey the story of the game. The main idea was to make this game have hard hitting dramatic moments but generally have an optimistic tone. 
 I made two characters that were meant to have different motivations but generally go through the same levels, this way, one could learn new things about the world with a second playthrough or if 
-another person was playing the game with the other character the information could be shared.
+another person was playing the game with the other character the information could be shared.</p>
 
-## Art
+  <h2>Art</h2>
 
-The idea for the game was to make it pixel art, however, I also thought that limiting the pallet as much as possible could give the game a realtively unique look. 
+  <p>The idea for the game was to make it pixel art, however, I also thought that limiting the pallet as much as possible could give the game a realtively unique look. </p>
 </details>
 
 # ARCube
