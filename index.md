@@ -18,16 +18,16 @@ The twisted star is my biggest independent project, I started it to learn the Un
 I made all of the assets from scratch, to learn as much as I could. 
 <details>
   <summary>More Info</summary>
-## Mechanics
+  <h2>Mechanics</h2>
 
-I implemented basic 2D platformer mechanics to allow the player some sense of familiarity with the controls, jumping, collectibles, a lifebar and different movement methods like dashing and swinging.
+  <p>I implemented basic 2D platformer mechanics to allow the player some sense of familiarity with the controls, jumping, collectibles, a lifebar and different movement methods like dashing and swinging.
 But the main mechanic of this game was what i called the "combo system". Normally, a "combo system" is something one would find in a classic Fighting game, where a combo is a link of quick moves that aren't countered in a short amount of time. 
-In the case of this project the "combo system" was instead to not repeat the same attack while you have others available to use, time not mattering. 
+In the case of this project the "combo system" was instead to not repeat the same attack while you have others available to use, time not mattering. </p>
 
-Every time that you use an attack that you havent used before in this combo, the combo meter is raised by 1, and once you repeat an attack, it becomes 0 again. The combo meter is what defines how much damage you do. 
+   <p>Every time that you use an attack that you havent used before in this combo, the combo meter is raised by 1, and once you repeat an attack, it becomes 0 again. The combo meter is what defines how much damage you do. 
 The idea of this mechanic was to make moves that are wildly different from each other so the player had to think fast to keep good damage going, otherwise, the enemies would be hard to defeat.
 To add to this gameplay, if you use up all the attacks from one of your weapons, you get a "Set Bonus", which varies depending on the weapon. When you use all the attacks of the sword, your other weapons can hit several opponents at once, 
-the whip set bonus makes your other weapons hitbox larger and the hammer gives your other weapons knockback.
+the whip set bonus makes your other weapons hitbox larger and the hammer gives your other weapons knockback.</p>
 
 ## Story
 
