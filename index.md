@@ -17,7 +17,7 @@ Here you can see some of the games and concepts I've created as a hobby.
 The twisted star is my biggest independent project, I started it to learn the Unity engine in depth and ended up designing a very ambitious 2D platformer Beat 'em up.
 I made all of the assets from scratch, to learn as much as I could. 
 <details>
-  <summary>More Info</summary>
+  <summary>More Info &#x25BC;</summary>
   <h2>Mechanics</h2>
 
   <p>I implemented basic 2D platformer mechanics to allow the player some sense of familiarity with the controls, jumping, collectibles, a lifebar and different movement methods like dashing and swinging.
