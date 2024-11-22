@@ -21,10 +21,10 @@ I made all of the assets from scratch, to learn as much as I could.
   <h2>Mechanics</h2>
 
   <p>I implemented basic 2D platformer mechanics to allow the player some sense of familiarity with the controls, jumping, collectibles, a lifebar and different movement methods like dashing and swinging.
-But the main mechanic of this game was what i called the "combo system". Normally, a "combo system" is something one would find in a classic Fighting game, where a combo is a link of quick moves that aren't countered in a short amount of time. 
+But the main mechanic of this game was what I called the "combo system". Normally, a "combo system" is something one would find in a classic Fighting game, where a combo is a link of quick moves that aren't countered in a short amount of time. 
 In the case of this project the "combo system" was instead to not repeat the same attack while you have others available to use, time not mattering. </p>
 
-   <p>Every time that you use an attack that you havent used before in this combo, the combo meter is raised by 1, and once you repeat an attack, it becomes 0 again. The combo meter is what defines how much damage you do. 
+   <p>Every time that you use an attack that you haven't used before in this combo, the combo meter is raised by 1, and once you repeat an attack, it becomes 0 again. The combo meter is what defines how much damage you do. 
 The idea of this mechanic was to make moves that are wildly different from each other so the player had to think fast to keep good damage going, otherwise, the enemies would be hard to defeat.
 To add to this gameplay, if you use up all the attacks from one of your weapons, you get a "Set Bonus", which varies depending on the weapon. When you use all the attacks of the sword, your other weapons can hit several opponents at once, 
 the whip set bonus makes your other weapons hitbox larger and the hammer gives your other weapons knockback.</p>
@@ -81,7 +81,7 @@ http://safegamedevelopment.github.io/juegoFisica/Juegofisica.html
 <p>This project was made to support local schools with physics education for middleschoolers. I worked in this project with 3 other people using the Phaser framework. The objective was to teach the player
 to solve physics problems intuitively, thus reducing the anxiety that numbers may cause on kids learning the subject.</p>
 <p>A short story was also included in the game to retain the attention of kids who might otherwise abandon the game before finishing it.</p>
-<p>The game is only in Spanish, given that that was the target audience native language.</p>
+<p>The game is only in Spanish, given that that was the target audience's native language.</p>
 
 # Robot Artist
 
@@ -92,4 +92,4 @@ to solve physics problems intuitively, thus reducing the anxiety that numbers ma
 [Download Game Demo](assets/downloadables/RobotArtist.rar)
 
 <p>The Robot Artist was a proof of concept that I made with another team member in a very short amount of time. The company we worked for was looking to open a game developing branch, and they specifically wanted to use open source engines, so we chose to use Godot.</p>
-<p>This project was meant to be a simple reaction time based game where the objective was to input the instructions on the screen as fast as you could without getting it wrong. The visual part is where it would get more interesting: a picture would start being generated layer by layer as the player progressed, and blotches would start appearing in the picture to reflect the player's mistakes</p>
+<p>This project was meant to be a simple reaction time based game where the objective was to input the instructions on the screen as fast as you could without getting it wrong. The visual part is where it would get more interesting: a picture would start being generated layer by layer as the player progressed, and blotches would start appearing in the picture to reflect the player's mistakes.</p>
