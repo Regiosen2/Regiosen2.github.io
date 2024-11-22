@@ -106,5 +106,4 @@ Feel free to reach out if you'd like to collaborate, have questions, or want to 
 
 ## Download My CV
 
-Looking for more details about my experience? Download my CV here:
-[Download CV](/assets/downloadables/Curriculum vitae Game Developer (Sergio Barrios, English) .pdf)
+Looking for more details about my experience? [Download my CV](/assets/downloadables/Curriculum vitae Game Developer (Sergio Barrios, English) .pdf)
