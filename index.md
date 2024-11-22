@@ -107,4 +107,4 @@ Feel free to reach out if you'd like to collaborate, have questions, or want to 
 ## Download My CV
 
 Looking for more details about my experience? Download my CV here:
-[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader)](/assets/downloadables/Curriculum vitae Game Developer (Sergio Barrios, English) .pdf)
+[Download CV](/assets/downloadables/Curriculum vitae Game Developer (Sergio Barrios, English) .pdf)
