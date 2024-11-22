@@ -2,7 +2,7 @@
 layout: default
 title: Sergio Barrios | Interactive Entertainment & Game Development
 ---
-<link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+<link rel="stylesheet" href="{{ "/assets/mainPageExtraStyles.css" | relative_url }}">
 # Welcome to My Site!
 
 Here you can see some of the games and concepts I've created as a hobby. 
