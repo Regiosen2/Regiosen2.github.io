@@ -68,7 +68,7 @@ Each mark will render a room that seems to fit inside of the cube, by moving the
 <p>I made this the project in a team of 4 people using Unity. The idea was to make a bossfight and polish it as much as we could in the free time that we had in a month. </p>
 <p>This bossfight had to explain the controls and objective in the least amount of time possible, given the lack of a level to explain the mechanics.</p> 
 <p>We made a short obligatory sequence at the start of the game that sets up that you can throw the "chest" in the middle 
-of the room. Also, we made it so that at the start of the fight the player can see that catching the purple attacks of the boss with the chest hurts it.</p>
+of the room. Also, at the start of the fight the player can see that catching the purple attacks of the boss with the chest hurts it.</p>
   
 # Borrados
 
@@ -78,10 +78,10 @@ of the room. Also, we made it so that at the start of the fight the player can s
 </video>
 http://safegamedevelopment.github.io/juegoFisica/Juegofisica.html
 
-<p>This was a project made for supporting local schools with phisics education for middleschoolers. I worked in this project with 3 other people using Phaser, the objective was to teach the player
+<p>This project was made to support local schools with physics education for middleschoolers. I worked in this project with 3 other people using the Phaser framework. The objective was to teach the player
 to solve physics problems intuitively, thus reducing the anxiety that numbers may cause on kids learning the subject.</p>
 <p>A short story was also included in the game to retain the attention of kids who might otherwise abandon the game before finishing it.</p>
-<p>The game is only in spanish given that that was the target audience native language</p>
+<p>The game is only in Spanish, given that that was the target audience native language.</p>
 
 # Robot Artist
 
@@ -91,5 +91,5 @@ to solve physics problems intuitively, thus reducing the anxiety that numbers ma
 </video>
 [Download Game Demo](assets/downloadables/RobotArtist.rar)
 
-<p>The Robot Artist was a proof of concept that I made with another team member using Godot, the company we worked for was looking to open a game developing branch. They specifically wanted to use open source engines, and gave us a very short amount of time to produce something to show.</p>
-<p> This game was meant to be a simple reaction time based game, the objective was to input the instructions on the screen as fast as you could without getting it wrong. The visual part is where it would get more interesting. A picture would start being generated layer by layer, and blotches would start appearing in the picture to reflect the players mistakes</p>
+<p>The Robot Artist was a proof of concept that I made with another team member in a very short amount of time. The company we worked for was looking to open a game developing branch, and they specifically wanted to use open source engines, so we chose to use Godot.</p>
+<p>This project was meant to be a simple reaction time based game where the objective was to input the instructions on the screen as fast as you could without getting it wrong. The visual part is where it would get more interesting: a picture would start being generated layer by layer as the player progressed, and blotches would start appearing in the picture to reflect the player's mistakes</p>
