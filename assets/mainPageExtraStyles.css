@@ -1,0 +1,10 @@
+.more-info-summary {
+    cursor: pointer;
+    color: #007BFF;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.more-info-summary:hover {
+    color: #0056b3;
+    transform: scale(1.1);
+}
