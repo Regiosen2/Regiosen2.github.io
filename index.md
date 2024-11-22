@@ -2,7 +2,7 @@
 layout: default
 title: Sergio Barrios | Interactive Entertainment & Game Development
 ---
-
+<link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
 # Welcome to My Site!
 
 Here you can see some of the games and concepts I've created as a hobby. 
@@ -17,7 +17,7 @@ Here you can see some of the games and concepts I've created as a hobby.
 The twisted star is my biggest independent project, I started it to learn the Unity engine in depth and ended up designing a very ambitious 2D platformer Beat 'em up.
 I made all of the assets from scratch, to learn as much as I could. 
 <details>
-  <summary>More Info &#x25BC;</summary>
+  <summary class="more-info-summary">More Info &#x25BC;</summary>
   <h2>Mechanics</h2>
 
   <p>I implemented basic 2D platformer mechanics to allow the player some sense of familiarity with the controls, jumping, collectibles, a lifebar and different movement methods like dashing and swinging.
