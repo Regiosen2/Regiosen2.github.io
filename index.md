@@ -104,7 +104,7 @@ Feel free to reach out if you'd like to collaborate, have questions, or want to 
 - **Email**: [regiosen@gmail.com](mailto:regiosen@gmail.com)
 - **LinkedIn**: [https://linkedin.com/in/sergiobarrios](https://www.linkedin.com/in/sergio-luis-barrios-palacios-770957b8/?locale=en_US)
 
-## 📄 Download My CV
+## Download My CV
 
 Looking for more details about my experience? Download my CV here:
 [![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader)](/assets/downloadables/Curriculum vitae Game Developer (Sergio Barrios, English) .pdf)
