@@ -46,13 +46,19 @@ another person was playing the game with the other character the information cou
   <source src="/assets/videos/ARCubeVidPresentation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<p>
 [Download Game Demo](assets/downloadables/ARCube.rar)
+</p>
+<p>
 [ARCube Printable](assets/downloadables/PrintableArcube.png)
+(The bigger the printed cube, the better the result)
+</p>
 
-The ARCube is an experimental project, it uses ARToolkit for Unity to detect 6 specific marks, these marks are meant to be arranged in the shape of a cube. 
-Through angle calculations the cube will determine where "down" is and apply gravity to a ball that spawns in the "water" mark. Each mark will render a room
-that seems to fit inside of the cube, by moving the cube around you can make the ball fall into holes. These holes align with the marks on the sides of the cube.
-The product of these logis is that you get a very intriguing trinket that you can play around with.
+<p>The ARCube is an experimental project that I made with a group of 3 people in about 2 weeks. It uses ARToolkit for Unity to detect 6 specific marks, these marks are meant to be arranged in the shape of a cube. 
+Through angle calculations the cube will determine where "down" is and apply gravity to a ball that spawns in the "water" mark.</p>
+<p>
+Each mark will render a room that seems to fit inside of the cube, by moving the cube around you can make the ball fall into holes. These holes align with the marks on the sides of the cube.
+</p>
 
 # The Witch Bossfight
 
