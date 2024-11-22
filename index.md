@@ -94,11 +94,11 @@ to solve physics problems intuitively, thus reducing the anxiety that numbers ma
 <p>The Robot Artist was a proof of concept that I made with another team member in a very short amount of time. The company we worked for was looking to open a game developing branch, and they specifically wanted to use open source engines, so we chose to use Godot.</p>
 <p>This project was meant to be a simple reaction time based game where the objective was to input the instructions on the screen as fast as you could without getting it wrong. The visual part is where it would get more interesting: a picture would start being generated layer by layer as the player progressed, and blotches would start appearing in the picture to reflect the player's mistakes.</p>
 
+---
+
 # Contact Me
 
 Feel free to reach out if you'd like to collaborate, have questions, or want to learn more about my work!
 
 - **Email**: [regiosen@gmail.com](mailto:regiosen@gmail.com)
-- **LinkedIn**: [https://linkedin.com/in/sergiobarrios](https://www.linkedin.com/in/sergio-luis-barrios-palacios-770957b8/?locale=en_US)0
-
----
+- **LinkedIn**: [https://linkedin.com/in/sergiobarrios](https://www.linkedin.com/in/sergio-luis-barrios-palacios-770957b8/?locale=en_US)
