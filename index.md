@@ -47,6 +47,7 @@ another person was playing the game with the other character the information cou
   Your browser does not support the video tag.
 </video>
 [Download Game Demo](assets/downloadables/ARCube.rar)
+[ARCube Printable](assets/downloadables/PrintableArcube.png)
 
 The ARCube is an experimental project, it uses ARToolkit for Unity to detect 6 specific marks, these marks are meant to be arranged in the shape of a cube. 
 Through angle calculations the cube will determine where "down" is and apply gravity to a ball that spawns in the "water" mark. Each mark will render a room
