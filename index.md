@@ -46,13 +46,11 @@ another person was playing the game with the other character the information cou
   <source src="/assets/videos/ARCubeVidPresentation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-<p>
 [Download Game Demo](assets/downloadables/ARCube.rar)
-</p>
-<p>
+<br/>
 [ARCube Printable](assets/downloadables/PrintableArcube.png)
 (The bigger the printed cube, the better the result)
-</p>
+
 
 <p>The ARCube is an experimental project that I made with a group of 3 people in about 2 weeks. It uses ARToolkit for Unity to detect 6 specific marks, these marks are meant to be arranged in the shape of a cube. 
 Through angle calculations the cube will determine where "down" is and apply gravity to a ball that spawns in the "water" mark.</p>
