@@ -78,7 +78,7 @@ of the room. Also, we made it so that at the start of the fight the player can s
 </video>
 http://safegamedevelopment.github.io/juegoFisica/Juegofisica.html
 
-<p>This was a project made for supporting local schools with phisics education for middleschoolers. I worked in this project with 3 other people using ____, the objective was to teach the player
+<p>This was a project made for supporting local schools with phisics education for middleschoolers. I worked in this project with 3 other people using Phaser, the objective was to teach the player
 to solve physics problems intuitively, thus reducing the anxiety that numbers may cause on kids learning the subject.</p>
 <p>A short story was also included in the game to retain the attention of kids who might otherwise abandon the game before finishing it.</p>
 <p>The game is only in spanish given that that was the target audience native language</p>
@@ -91,4 +91,5 @@ to solve physics problems intuitively, thus reducing the anxiety that numbers ma
 </video>
 [Download Game Demo](assets/downloadables/RobotArtist.rar)
 
-<p>The Robot Artist was a proof of concept that I made with another team member to pitch to the company that we were working for at the moment to see if they were willing to </p>
+<p>The Robot Artist was a proof of concept that I made with another team member using Godot, the company we worked for was looking to open a game developing branch. They specifically wanted to use open source engines, and gave us a very short amount of time to produce something to show.</p>
+<p> This game was meant to be a simple reaction time based game, the objective was to input the instructions on the screen as fast as you could without getting it wrong. The visual part is where it would get more interesting. A picture would start being generated layer by layer, and blotches would start appearing in the picture to reflect the players mistakes</p>
