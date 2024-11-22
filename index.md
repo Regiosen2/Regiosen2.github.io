@@ -53,9 +53,9 @@ another person was playing the game with the other character the information cou
 
 
 <p>The ARCube is an experimental project that I made with a group of 3 people in about 2 weeks. It uses ARToolkit for Unity to detect 6 specific marks, these marks are meant to be arranged in the shape of a cube. 
-Through angle calculations the cube will determine where "down" is and apply gravity to a ball that spawns in the "water" mark.</p>
+Through angle calculations the cube will determine where "down" is and apply gravity to a ball that spawns in the waterdrop mark.</p>
 <p>
-Each mark will render a room that seems to fit inside of the cube, by moving the cube around you can make the ball fall into holes. These holes align with the marks on the sides of the cube.
+Each mark will render a room that seems to fit inside of the cube, by moving the cube around you can make the ball fall into holes that lead into neighboring rooms.
 </p>
 
 # The Witch Bossfight
@@ -65,7 +65,11 @@ Each mark will render a room that seems to fit inside of the cube, by moving the
   Your browser does not support the video tag.
 </video>
 [Download Game Demo](assets/downloadables/WitchBossFight.rar)
-
+<p>I made this the project in a team of 4 people using Unity. The idea was to make a bossfight and polish it as much as we could in the free time that we had in a month. </p>
+<p>This bossfight had to explain the controls and objective in the least amount of time possible, given the lack of a level to explain the mechanics.</p> 
+<p>We made a short obligatory sequence at the start of the game that sets up that you can throw the "chest" in the middle 
+of the room. Also, we made it so that at the start of the fight the player can see that catching the purple attacks of the boss with the chest hurts it.</p>
+  
 # Borrados
 
 <video width="640" height="360" controls>
@@ -74,6 +78,11 @@ Each mark will render a room that seems to fit inside of the cube, by moving the
 </video>
 http://safegamedevelopment.github.io/juegoFisica/Juegofisica.html
 
+<p>This was a project made for supporting local schools with phisics education for middleschoolers. I worked in this project with 3 other people using ____, the objective was to teach the player
+to solve physics problems intuitively, thus reducing the anxiety that numbers may cause on kids learning the subject.</p>
+<p>A short story was also included in the game to retain the attention of kids who might otherwise abandon the game before finishing it.</p>
+<p>The game is only in spanish given that that was the target audience native language</p>
+
 # Robot Artist
 
 <video width="640" height="360" controls>
@@ -81,3 +90,5 @@ http://safegamedevelopment.github.io/juegoFisica/Juegofisica.html
   Your browser does not support the video tag.
 </video>
 [Download Game Demo](assets/downloadables/RobotArtist.rar)
+
+<p>The Robot Artist was a proof of concept that I made with another team member to pitch to the company that we were working for at the moment to see if they were willing to </p>
